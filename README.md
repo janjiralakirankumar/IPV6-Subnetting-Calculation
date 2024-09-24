@@ -1,5 +1,3 @@
----
-
 # IPv6 Addressing and Subnetting
 
 ## Understanding IPv6 Addressing
@@ -217,5 +215,3 @@ Let’s say you have an IPv6 network with the address `2001:0db8:85a3::/64` and 
 ### Conclusion
 
 Understanding IPv6 addressing, CIDR notation, and subnetting is crucial for effective network management. By utilizing these concepts, organizations can efficiently allocate and manage the vast address space provided by IPv6, enhancing scalability and improving routing performance.
-
---- 
